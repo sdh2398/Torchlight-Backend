@@ -7,6 +7,6 @@ import javax.persistence.Id;
 public class Project {
 	
 	@Id
-	private int projectId;
+	private long id;
 
 }
