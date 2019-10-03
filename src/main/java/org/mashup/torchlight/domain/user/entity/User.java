@@ -7,6 +7,6 @@ import javax.persistence.Id;
 public class User {
 
 	@Id
-	private long id;
+	private Long id;
 
 }

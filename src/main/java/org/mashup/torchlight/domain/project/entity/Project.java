@@ -5,8 +5,8 @@ import javax.persistence.Id;
 
 @Entity
 public class Project {
-	
+
 	@Id
-	private long id;
+	private Long id;
 
 }
